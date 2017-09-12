@@ -9,4 +9,3 @@
 * http://open-platform.theguardian.com/documentation/
 * https://webscope.sandbox.yahoo.com/catalog.php?datatype=r&did=75
 
-
