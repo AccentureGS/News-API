@@ -5,5 +5,6 @@
 * [Quora answers](https://www.quora.com/With-Google-News-API-going-away-what-is-the-best-option-to-add-a-company-news-search-feed-to-a-website)
 * http://developer.nytimes.com/
 * http://eventregistry.org/documentation
+* http://eventregistry.org/me?tab=settings
 
 
