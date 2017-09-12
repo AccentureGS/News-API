@@ -6,5 +6,6 @@
 * http://developer.nytimes.com/
 * http://eventregistry.org/documentation
 * http://eventregistry.org/me?tab=settings
+* http://open-platform.theguardian.com/documentation/
 
 
